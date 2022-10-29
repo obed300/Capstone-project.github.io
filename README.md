@@ -30,10 +30,10 @@ To get a local copy up and running follow these simple steps.
 
 👤 **Obed Bamfo**
 
-- GitHub: [@naolkidanu]()
-- Twitter: [@kidanuNaol]()
-- LinkedIn: [Naol (Eric) Kidanu]()
-- Link:[@naolkidanu]()
+- GitHub: [@Obed]()
+- Twitter: [@Obed]()
+- LinkedIn: [@Obed]()
+- Link:[@Obed]()
 
 ## 🤝 Contributing
 
