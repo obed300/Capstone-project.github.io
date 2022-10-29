@@ -8,7 +8,7 @@ A website designed for comedy show
 
 ## Live Demo
 
- [here](/)
+ [click me]( https://obed300.github.io/Capstone-project.github.io/)
 
 ## Getting Started
 
